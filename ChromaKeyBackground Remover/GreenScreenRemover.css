@@ -1,0 +1,9 @@
+
+.box{
+    position: relative;
+    width: 100px;
+}
+video{
+    outline: none;
+    visibility: collapse;
+}
